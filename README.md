@@ -1,0 +1,2 @@
+# Nara-skrip
+Otomatis nara
