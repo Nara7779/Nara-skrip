@@ -1,0 +1,3 @@
+NamaSkrip1|https://raw.githubusercontent.com/Nara7779/Nara-skrip/main/Script.sh
+NamaSkrip2|https://raw.githubusercontent.com/Nara7779/Nara-skrip/main/update_system.sh
+NamaSkrip3|https://raw.githubusercontent.com/Nara7779/Nara-skrip/main/script_lain.sh
